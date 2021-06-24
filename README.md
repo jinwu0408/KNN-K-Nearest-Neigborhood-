@@ -1,5 +1,5 @@
 <div>
-<img src="attachment:thumbnail.png" width="800">
+<img src="thumbnail.png" width="800">
 </div>
 
 # Import All necessary library
