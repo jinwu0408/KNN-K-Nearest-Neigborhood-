@@ -122,8 +122,8 @@ print('Testing data: ',testing_data.shape,type(training_data))
 
 
 ```python
-fig = px.scatter(x=df['SepalLengthCm'], y=df['SepalWidthCm'],color = df['Species'])
-fig.show()
+# fig = px.scatter(x=df['SepalLengthCm'], y=df['SepalWidthCm'],color = df['Species'])
+# fig.show()
 ```
 
 
@@ -174,8 +174,8 @@ if (outputEl) {{
 
 
 ```python
-fig = px.scatter(x=df['PetalLengthCm'], y=df['PetalWidthCm'],color = df['Species'])
-fig.show()
+# fig = px.scatter(x=df['PetalLengthCm'], y=df['PetalWidthCm'],color = df['Species'])
+# fig.show()
 ```
 
 
@@ -226,8 +226,8 @@ if (outputEl) {{
 
 
 ```python
-fig = px.scatter_3d(x=df['SepalLengthCm'], y=df['PetalLengthCm'],z=df['PetalWidthCm'],color = df['Species'])
-fig.show()
+# fig = px.scatter_3d(x=df['SepalLengthCm'], y=df['PetalLengthCm'],z=df['PetalWidthCm'],color = df['Species'])
+# fig.show()
 ```
 
 
